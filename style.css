@@ -1692,9 +1692,7 @@ ul {
   border-left: 5px solid #92278f;
 }
 .home5 .rs-footer .footer-share ul li a,
-.university-home .rs-footer .footer-share ul li a,
 .home5 .rs-footer .footer-share ul li a:hover,
-.university-home .rs-footer .footer-share ul li a:hover,
 .home5 .rs-footer .footer-title:after,
 .university-home .rs-footer .footer-title:after,
 .home5 .rs-footer .footer-top .news-form button,
@@ -3916,7 +3914,7 @@ ul {
   height: 50px;
   padding: 0 15px;
   color: #000;
-  border: none;
+  border: 1px solid rgba(54, 54, 54, 0.1);
   border-radius: 3px;
 }
 .rs-search-courses ::-webkit-input-placeholder {
@@ -3955,7 +3953,7 @@ ul {
   font-family: FontAwesome;
   content: "\f0d7";
   right: 15px;
-  top: 50%;
+  top: 45%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
 }
