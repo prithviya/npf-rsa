@@ -558,7 +558,7 @@ ul {
 }
 .bg12 {
   background-image: url(images/bg/dream.jpg);
-  background-position: center left;
+  background-position: center;
   background-size: cover;
   padding-top: 90px;
   padding-bottom: 80px;
